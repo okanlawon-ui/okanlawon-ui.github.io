@@ -1,0 +1,165 @@
+{
+ "profile": {
+  "name": "Okanlawon",
+  "role": "UI Designer",
+  "location": "Ibadan, Nigeria",
+  "available": true,
+  "headline": "Clear design makes products brighter.",
+  "intro": "I'm a UI designer in Ibadan. Small, careful details in every screen add up to apps and websites that look sharp and feel easy to use.",
+  "bio": "I design clean, polished interfaces for mobile apps, websites and dashboards. I care about layout, typography, colour and the small details that make a screen feel finished, with a soft spot for products built for African users.",
+  "email": "vantaiwo@gmail.com",
+  "resumeUrl": "",
+  "bookingUrl": "",
+  "portrait": {
+   "path": "profile/portrait.webp",
+   "w": 960,
+   "h": 1200
+  },
+  "links": {
+   "dribbble": "",
+   "behance": "",
+   "linkedin": "",
+   "x": "",
+   "website": ""
+  },
+  "portraitCut": {
+   "path": "profile/portrait-cut.webp",
+   "w": 683,
+   "h": 1000
+  },
+  "whatsapp": "+234 813 487 0697"
+ },
+ "companies": [],
+ "services": [
+  {
+   "title": "Mobile app design",
+   "price": "",
+   "duration": "",
+   "description": "Polished app screens, from the first screen to a clickable prototype.",
+   "items": [
+    "High-fidelity screens",
+    "Components and UI kit",
+    "Clickable Figma prototype",
+    "Developer handoff"
+   ]
+  },
+  {
+   "title": "Website & landing page",
+   "price": "",
+   "duration": "",
+   "description": "A marketing site that looks great and shows off your product.",
+   "items": [
+    "Landing page visuals",
+    "Desktop and mobile designs",
+    "Reusable components",
+    "Handoff or Framer build"
+   ]
+  },
+  {
+   "title": "Dashboard & product UI",
+   "price": "",
+   "duration": "",
+   "description": "Clear interfaces for data-heavy tools, admin panels and SaaS products.",
+   "items": [
+    "Clean tables, charts and forms",
+    "Light and dark themes",
+    "A small design system",
+    "Ongoing design support"
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "group": "Design",
+   "items": [
+    "UI design",
+    "Visual design",
+    "Prototyping",
+    "Design systems",
+    "Iconography"
+   ]
+  },
+  {
+   "group": "Tools",
+   "items": [
+    "Figma",
+    "FigJam",
+    "Framer",
+    "Illustrator",
+    "Notion"
+   ]
+  }
+ ],
+ "principles": [
+  {
+   "title": "Details make the difference",
+   "text": "Spacing, alignment and type are checked on every screen, so the whole product feels polished."
+  },
+  {
+   "title": "Clarity over decoration",
+   "text": "If a detail doesn't help someone understand or act, it goes."
+  },
+  {
+   "title": "Design for real conditions",
+   "text": "Small screens, slow networks and busy days. Designs should still work there."
+  },
+  {
+   "title": "Systems, not one-offs",
+   "text": "Reusable components and styles keep products consistent and faster to build."
+  },
+  {
+   "title": "Clean handoff",
+   "text": "Organised files, named layers and documented states, so developers build what was designed."
+  }
+ ],
+ "testimonials": [],
+ "achievements": [],
+ "works": [
+  {
+   "id": "agrovant01",
+   "title": "AgrovanT",
+   "category": "Mobile",
+   "year": "2026",
+   "role": "Founder, UI design",
+   "tools": "Figma",
+   "summary": "A mobile app that helps Nigerian farmers plan, protect and sell their crops, in English, Yorùbá or Pidgin.",
+   "description": "THE PROBLEM\nMost farming advice in Nigeria is written for researchers, not farmers. It is in English, uses kilograms per hectare, and ignores the local weather. Prices change from market to market, and a sick crop often goes unnoticed until it is too late.\n\nWHO IT'S FOR\nSmall and medium farmers in South-West Nigeria who grow cassava, maize, yam and vegetables. They use mid-range Android phones, often outdoors in bright sun, and many prefer Yorùbá or Pidgin.\n\nSCREENS I DESIGNED\n• Onboarding that asks for a language before anything else.\n• A home screen built around today's work: weather advice and tasks from the farmer's planting plan.\n• Crop guides that show local names next to English, with planting windows, spacing and growth stages.\n• A fertiliser calculator that answers in whole 50 kg bags, not kg per hectare.\n• A crop doctor that diagnoses a leaf photo, shows how sure it is, and always offers a call to a human extension officer.\n• Market prices that are checked before they show, plus Ask Agro, an assistant for text or voice questions.\n\nKEY DECISIONS\nLight, high-contrast screens that stay readable in the sun. Large tap targets of 44 px or more. Every tool is two taps from home, so the camera sits in the centre of the tab bar. Advice is written as an action (\"Apply fertiliser after the rain passes\"), not as raw data.\n\nDESIGN SYSTEM\nColours taken from the farm: Forest, Leaf, Sun and Soil, with a warm cream background. Bricolage Grotesque for headings and DM Sans for body text, chosen because it supports Yorùbá tone marks.\n\nPROTOTYPE\nThe clickable Figma prototype covers the main journeys: onboarding to home, crop doctor to diagnosis, market prices, the fertiliser calculator and Ask Agro. The screens are built with reusable components, colour and text styles, and auto layout.\n\nNOTE\nPrices, weather and the diagnosis shown in these screens are example data used for the design.",
+   "link": "https://agrovant.netlify.app",
+   "images": [
+    {
+     "path": "works/agrovant/agrovant-cover.webp",
+     "w": 2400,
+     "h": 1500
+    },
+    {
+     "path": "works/agrovant/agrovant-home.webp",
+     "w": 2400,
+     "h": 1500
+    },
+    {
+     "path": "works/agrovant/agrovant-guide.webp",
+     "w": 2400,
+     "h": 1500
+    },
+    {
+     "path": "works/agrovant/agrovant-doctor.webp",
+     "w": 2400,
+     "h": 1500
+    },
+    {
+     "path": "works/agrovant/agrovant-market.webp",
+     "w": 2400,
+     "h": 1500
+    },
+    {
+     "path": "works/agrovant/agrovant-system.webp",
+     "w": 2400,
+     "h": 1500
+    }
+   ],
+   "created": 1790990000000,
+   "prototype": "https://www.figma.com/proto/j53eCsc4F4MJoSugaAq5S1/Agrovant-App?node-id=4-197&t=84YQq16o84oGKeX3-1",
+   "linkLabel": "AgrovanT website"
+  }
+ ]
+}
